@@ -1,0 +1,1 @@
+(self.webpackChunkanil_custom_app_aws=self.webpackChunkanil_custom_app_aws||[]).push([[9765],{"./src/i18n/data/en.json":e=>{"use strict";e.exports=JSON.parse('{"MainView.labelLinkOne":"Page one","MainView.labelLinkTwo":"Page two","MainView.title":"Hello, world","ViewOne.title":"View one","ViewTwo.title":"View two"}')}}]);

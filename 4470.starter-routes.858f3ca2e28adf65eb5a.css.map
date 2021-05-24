@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://anil-custom-app-aws/./src/components/main-view/main-view.mod.css"],"names":[],"mappings":"AAAA,mCACE,4BACF","file":"4470.starter-routes.858f3ca2e28adf65eb5a.css","sourcesContent":[".nav-header {\n  border-bottom: 1px solid var(--color-neutral-60);\n}\n"],"sourceRoot":""}
